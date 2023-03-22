@@ -1,5 +1,5 @@
 心智圖  
-https://gitmind.com/app/docs/mjc9u7kw
+https://gitmind.com/app/docs/mjc9u7kw  
 影片  
 https://drive.google.com/file/d/1ZpsdV54Ig9jrl48gRiOqDUCnXAM1MZ9I/view?usp=sharing
 
