@@ -1,7 +1,12 @@
 心智圖  
 https://gitmind.com/app/docs/mjc9u7kw  
 影片  
-https://drive.google.com/file/d/1ZpsdV54Ig9jrl48gRiOqDUCnXAM1MZ9I/view?usp=sharing
+https://drive.google.com/file/d/1ZpsdV54Ig9jrl48gRiOqDUCnXAM1MZ9I/view?usp=sharing  
+
+
+因對於科技金融主題感興趣，且想了解法國巴黎銀行在金融產品的販賣上的方式，因此選擇此主題。
+且為了與未來從事專利師相關行業，想從此專案中試著找尋可能有機會可專利化或是優化的地方，  
+並透過discord bot的訓練來讓我能在未來接案時有更多可能。  
 
 本學期規劃內容:
 1. 金融知識  
