@@ -4,6 +4,7 @@ https://gitmind.com/app/docs/mjc9u7kw
 https://drive.google.com/file/d/1ZpsdV54Ig9jrl48gRiOqDUCnXAM1MZ9I/view?usp=sharing  
 
 影片2  
+https://drive.google.com/file/d/1K-sptm9hTauwNT9ON376eSd0A09S_0I0/view?usp=sharing
 
 
 因對於科技金融主題感興趣，且想了解法國巴黎銀行在金融產品的販賣上的方式，因此選擇此主題。  
