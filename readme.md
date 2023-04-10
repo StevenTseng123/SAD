@@ -3,7 +3,7 @@ https://gitmind.com/app/docs/mjc9u7kw
 影片(第一次作業)  
 https://drive.google.com/file/d/1ZpsdV54Ig9jrl48gRiOqDUCnXAM1MZ9I/view?usp=sharing  
 
-影片2(第二次作業)   
+影片2(第二次作業)(額外文字說明在下方)   
 https://drive.google.com/file/d/1K-sptm9hTauwNT9ON376eSd0A09S_0I0/view?usp=sharing
 
 
@@ -30,9 +30,7 @@ https://drive.google.com/file/d/1K-sptm9hTauwNT9ON376eSd0A09S_0I0/view?usp=shari
 4. 專案管理  
   內容:與其他參與專題的組員一起學習及產出  
   目的:做出一個專題成品  
-  來源:notion
-
-
+  來源:notion  
 
 
 
