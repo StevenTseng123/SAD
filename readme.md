@@ -5,7 +5,7 @@ https://drive.google.com/file/d/1ZpsdV54Ig9jrl48gRiOqDUCnXAM1MZ9I/view?usp=shari
 
 影片2(第二次作業)(額外文字說明在下方)   
 https://drive.google.com/file/d/1K-sptm9hTauwNT9ON376eSd0A09S_0I0/view?usp=sharing  
-專利內容的學習(影片較大)
+專利內容的學習(影片較大)  
 https://drive.google.com/file/d/1phvtmeIU5s7BEZgcnUQJhB59u2AXRFam/view?usp=sharing
 
 
