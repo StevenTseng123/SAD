@@ -8,6 +8,10 @@ https://drive.google.com/file/d/1K-sptm9hTauwNT9ON376eSd0A09S_0I0/view?usp=shari
 專利內容的學習(影片較大)  
 https://drive.google.com/file/d/1YWXEKnzJslo3jQ-fXChk8O1YxrYVIhiJ/view?usp=share_link
 
+影片3(第三次作業)(額外文字說明在下方)  
+https://drive.google.com/file/d/1aBQQ2OeQSocQJtHqbFAB2qi2L4v4p5cO/view?usp=sharing
+
+
 因對於科技金融主題感興趣，且想了解法國巴黎銀行在金融產品的販賣上的方式，因此選擇此主題。  
 且為了與未來從事專利師相關行業，想從此專案中試著找尋可能有機會可專利化或是優化的地方，  
 並透過discord bot的訓練來讓我能在未來接案時有更多可能。  
@@ -41,6 +45,12 @@ https://drive.google.com/file/d/1YWXEKnzJslo3jQ-fXChk8O1YxrYVIhiJ/view?usp=share
 申請日；說明書、申請專利範圍、圖式及摘要；優先權及優惠期；生物材料寄存；發明公開及申請實體審查；修正；申請權之異動；再審查;  
 分割及改請;申請規費;送達;期間，並完成每單元後方之題目
 下次作業會開始做discord bot的相關實作，並進行專案可行性發想實作。  
+
+
+第三次作業進度
+因為要考專利人員能力認證，所以進行歷屆考古題的練習。  
+本次寫了107年專利申請實務，主要是要進行專利說明書內容及請求項的撰寫，
+並在寫完後，有請進行相關專利行業的人員進行批閱
   
   
  
