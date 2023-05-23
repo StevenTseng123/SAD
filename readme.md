@@ -11,6 +11,8 @@ https://drive.google.com/file/d/1YWXEKnzJslo3jQ-fXChk8O1YxrYVIhiJ/view?usp=share
 影片3(第三次作業)(額外文字說明在下方)  
 https://drive.google.com/file/d/1aBQQ2OeQSocQJtHqbFAB2qi2L4v4p5cO/view?usp=sharing
 
+影片4(第四次作業)(額外文字說明在下方)  
+https://drive.google.com/file/d/1BeW1C7980YgCHg912gjjke-_1Wp9wwu-/view?usp=sharing  
 
 因對於科技金融主題感興趣，且想了解法國巴黎銀行在金融產品的販賣上的方式，因此選擇此主題。  
 且為了與未來從事專利師相關行業，想從此專案中試著找尋可能有機會可專利化或是優化的地方，  
@@ -50,8 +52,13 @@ https://drive.google.com/file/d/1aBQQ2OeQSocQJtHqbFAB2qi2L4v4p5cO/view?usp=shari
 第三次作業進度  
 因為要考專利人員能力認證，所以進行歷屆考古題的練習。  
 本次寫了107年專利申請實務，主要是要進行專利說明書內容及請求項的撰寫，  
-並在寫完後，有請進行相關專利行業的人員進行批閱
+並在寫完後，有請進行相關專利行業的人員進行批閱  
   
+  
+第四次作業進度  
+本次繼續進行相關題目的練習:
+106專利說明書內容及請求項、106審查基準與實務、111年專利法規  
+並在寫完後，有請進行相關專利行業的人員進行批閱  
   
  
 
